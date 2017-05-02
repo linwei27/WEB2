@@ -1,0 +1,18 @@
+body{
+	font-size: 12px;
+	line-height: 2em;
+	font-family: Arial;
+}
+a{
+	color:#727272;
+	text-decoration: none;
+}
+.menu{
+	font-size: 14px;
+	font-weight: 500;
+	color:#b9f605;
+}
+.special{
+color: #fdb306;
+}
+
